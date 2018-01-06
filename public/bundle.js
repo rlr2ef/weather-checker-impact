@@ -971,7 +971,7 @@ var _react = __webpack_require__(2);
 
 var _react2 = _interopRequireDefault(_react);
 
-var _ZipForm = __webpack_require__(28);
+var _ZipForm = __webpack_require__(!(function webpackMissingModule() { var e = new Error("Cannot find module \"./ZipForm.jsx\""); e.code = 'MODULE_NOT_FOUND'; throw e; }()));
 
 var _ZipForm2 = _interopRequireDefault(_ZipForm);
 
@@ -18298,13 +18298,6 @@ function camelize(string) {
 }
 
 module.exports = camelize;
-
-/***/ }),
-/* 28 */
-/***/ (function(module, exports) {
-
-"use strict";
-throw new Error("Module build failed: Error: ENOENT: no such file or directory, open '/Users/karen/Fullstack/impact/weatherCheckerStart/client/ZipForm.jsx'");
 
 /***/ })
 /******/ ]);
